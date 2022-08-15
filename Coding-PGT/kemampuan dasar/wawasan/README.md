@@ -1,27 +1,25 @@
 RANGKUMAN MATERI
 Ruang Lingkup Pengembangan Software
-Sejarah Teknologi Teknologi
+1.Sejarah Teknologi Teknologi
 teknologi informasi secara umum adalah suatu studi tentang perencanaan, pengembangan, implementasi, dukungan atau manajemen sistem informasi dengan basis komputer, terutama pada perangkat keras ataupun perangkat lunak.
-Software Development
+
+2. INFORMATIKA DAN KOMPUTER SAINS
+Informatika adalah cabang dari rekayasa informasi. Ini melibatkan praktik pemrosesan informasi dan rekayasa sistem informasi, dan sebagai bidang akademik, ini adalah bentuk terapan dari ilmu informasi. Bidang ini mempertimbangkan interaksi antara manusia dan informasi di samping konstruksi antarmuka, organisasi, teknologi, dan sistem. Dengan demikian, bidang informatika memiliki luas yang besar dan mencakup banyak subspesialisasi, termasuk disiplin ilmu komputer, sistem informasi, teknologi informasi dan statistik. 
+
+Ilmu komputer adalah studi tentang teori, eksperimen, dan rekayasa yang membentuk dasar untuk desain dan penggunaan komputer. Ini adalah pendekatan ilmiah dan praktis untuk komputasi dan aplikasinya dan studi sistematis tentang kelayakan, struktur, ekspresi, dan mekanisasi prosedur metodis (atau algoritma) yang mendasari akuisisi, representasi, pemrosesan, penyimpanan, komunikasi, dan akses. untuk informasi. Definisi ilmu komputer alternatif yang lebih ringkas adalah studi tentang mengotomatisasi proses algoritmik yang berskala. Seorang ilmuwan komputer mengkhususkan diri dalam teori komputasi dan desain sistem komputasi.
+
+3. Software Development
 Software development adalah proses pengembangan perangkat lunak melalui beberapa tahapan yang tersusun secara sistematis sehingga menghasilkan produk yang berkualitas
 
-SISTEM INFORMASI
-*WINDOWS
-*LINUX
-*MACos
+4.AGILE SOFTWARE DEVELOPMENT
+Agile Software Development adalah metodologi pengembangan software yang didasarkan pada proses pengerjaan yang dilakukan berulang dimana, aturan dan solusi yang disepakati dilakukan dengan kolaborasi antar tiap tim secara terorganisir dan terstruktur.
 
-DOKUMENTASI POWERSHELL
-PowerShell adalah jenis command line interface yang mendukung teknik pemrograman berorientasi objek pada Windows. PowerShell sering digunakan oleh para administrator yang bergelut dengan sistem operasi Windows Server untuk menjalankan berbagai rutinitas pengaturan jaringan dalam server berbasis Windows.
+Agile development sendiri merupakan model pengembangan perangkat lunak dalam jangka pendek. Kemudian, membutuhkan adaptasi yang cepat dalam mengatasi setiap perubahan. Nilai terpenting dari Agile development ini adalah memungkinkan sebuah tim dalam mengambil keputusan dengan cepat, kualitas dan prediksi yang baik, serta memiliki potensi yang baik dalam menangani setiap perubahan.
 
-COMMAND LINE
-mekanisme interaksi dengan sistem operasi atau perangkat lunak komputer dengan mengetikkan perintah untuk menjalankan tugas tertentu.
+5.SCRUM
+Secara harfiah SCRUM adalah kerangka kerja di mana orang dapat mengatasi masalah adaptif yang kompleks, sementara secara produktif dan kreatif memberikan produk dengan nilai setinggi mungkin. SCRUM merupakan salah satu metode rekayasa perangkat lunak dengan menggunakan prinsip-prinsip pendekatan AGILE, yang bertumpu pada kekuatan kolaborasi tim, incremental product dan proses iterasi untuk mewujudkan hasil akhir.
+SCRUM juga bisa di sebut framework untuk manajemen pengembangan software dengan karakteristik cekatan dan bersifat iteratif dan incremental. SCRUM mendefinisikan dirinya fleksible, strategi pengembangan yang menyeluruh di mana seluruh team bekerja sebagai satu unit dalam mencapai sebuah gol yang sama. Dalam menjalankan kerjasama antara anggota team, SCRUM menekankan lokasi fisik yang sama atau sarana online yang akrab antara semua member, dan juga pertemuan muka dengan muka setiap hari antara semua anggota team.
 
-BATCH FILE
-Batchfile atau File Batch adalah sebuah file text yang berisi beberapa seri perintah yang secara segaja untuk di eksekusi oleh command interpreter. atau dapat didefinisikan juga batch merupakan kumpulan perintah-perintah command line yang dapat dijalankan pada Microsoft Windows. File batch biasanya berekstensikan .bat atau .cmd. Pemrograman Batch sangat sederhana, cukup ketik source code program pada notepad atau text editor lainnya lalu simpan dengan ekstensi bat.
+6.EXTREME PROGRAMMING(XP)
+Extreme programming merupakan salah satu metode agile yang cukup banyak digunakan, terutama pada proyek pengembangan aplikasi dalam skala kecil. Hal ini karena metode ini terhitung cukup sederhana dan ringkas namun tetap mengaplikasikan berbagai prinsip agile yang dianggap break through dalam meningkatkan efisiensi serta efektivitas pengerjaan pengembangan perangkat lunak. Metode extreme programming sangat sesuai jika dihadapkan dengan requirement yang tidak jelas maupun terjadi perubahan-perubahan yang sangat cepat
 
-Source Code Management - Git dan GitHub
-GIT
-Git merupakan software berbasis Version Control System (VCS) yang bertugas untuk mencatat perubahan seluruh file atau repository suatu project. Developer software biasa menggunakan Git untuk distributed revision (VCS terdistribusi), hal ini bertujuan untuk menyimpan database tidak hanya ke satu tempat. Namun semua orang yang terlibat dalam penyusunan kode dapat menyimpan database ini.
-
-GITHUB
-GitHub merupakan layanan cloud yang berguna untuk menyimpan dan mengelola sebuah project yang dinamakan repository (repo git). Cara kerja pada GitHub harus terkoneksi pada internet sehingga tidak perlu meng-install sebuah software ke dalam perangkat keras. Hal ini memberikan keringanan penyimpanan komputer yang kita gunakan karena file project tersimpan oleh cloud GitHub.

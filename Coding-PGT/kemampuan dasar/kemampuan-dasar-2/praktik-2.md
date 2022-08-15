@@ -17,3 +17,10 @@ FORK
 ![fork2](https://user-images.githubusercontent.com/49548460/184625869-2d9b2ed6-4f86-42c5-8632-ba4e78931f49.PNG)
 
 ![fork3](https://user-images.githubusercontent.com/49548460/184625900-b3bd30da-cb37-4052-a4a1-650defe93eda.PNG)
+
+![request](https://user-images.githubusercontent.com/49548460/184627452-b7f3fafb-591c-43b6-888f-d28a88526c05.PNG)
+![request2](https://user-images.githubusercontent.com/49548460/184627478-4a77f2e5-3297-4194-ac2f-83df6abb3d03.PNG)
+![request3](https://user-images.githubusercontent.com/49548460/184627494-5eb2d905-1db8-45d7-a14a-8b2ead1e282e.PNG)
+![issue](https://user-images.githubusercontent.com/49548460/184627512-ca437d0a-7699-42a5-9575-1bc7d662e8a4.PNG)
+![isu2](https://user-images.githubusercontent.com/49548460/184627544-d22d8ba5-ccfb-49fe-a74c-797b1102b8e8.PNG)
+![isu3](https://user-images.githubusercontent.com/49548460/184627561-f8b94be8-161a-4cc6-b2f3-f0986d262bcc.PNG)
